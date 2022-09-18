@@ -5,6 +5,7 @@ stage('clone and clean repo'){
 steps {
 
 echo "hi"
+  echo "Raed"
 }
 
 }
